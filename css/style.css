@@ -17,7 +17,7 @@ body {
     background: url("../images/bg.jpeg");
     background-size: cover;
     background-repeat: no-repeat;
-    background-position: center;
+    background-position: center bottom;
     position: relative;
     overflow: hidden;
 }
